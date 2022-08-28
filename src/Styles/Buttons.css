@@ -1,0 +1,47 @@
+.icon{
+    font-size: 20px;
+    background-color: #fff;
+    padding: 6px 15px;
+    padding-bottom: 8px;
+    padding-right: 1px;
+    position: absolute;
+    margin-top: 1.5px;
+    margin-left: -28px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.icon1{
+    background-color: #fff;
+}
+
+.icon2{
+    color: white;
+}
+
+.gotoBtn{
+    border-radius: 5px;
+    padding: 8px 25px;
+    width: 95px;
+    padding-left: 7px;
+    font-size: 15px;
+    background-color: #fff;
+}
+
+.gotoBtn2{
+    background-color: rgb(101, 222, 83);
+    color: white;
+}
+
+.btns{
+    display: flex;
+    margin-left: 35px;
+}
+
+.sect2{
+    margin-left: 40px;
+}
+
+.icon2{
+    background-color: rgb(101, 222, 83);
+}

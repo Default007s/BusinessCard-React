@@ -1,0 +1,20 @@
+.profile-pic{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 300px;
+    height: 260px;
+}
+.name{
+    font-size: 25px;
+    color: white;
+    line-height: 1px;
+}
+.profession{
+    color: #F83A53;
+    font-size: 12.8px
+}
+.site{
+    line-height: 5px;
+    font-size: 10.24px;
+    color: white;
+}
